@@ -1,0 +1,31 @@
+{
+  "name": "contactapp",
+  "version": "1.0.0",
+  "description": "contact list application MEAN",
+  "main": "server.js",
+  "dependencies": {
+    "body-parser": "^1.15.1",
+    "express": "^4.13.4",
+    "mongojs": "^2.4.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "N/A",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/eojeel/ContactList.git"
+  },
+  "keywords": [
+    "contact",
+    "list",
+    "mean"
+  ],
+  "author": "Joe Lee",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/eojeel/ContactList/issues"
+  },
+  "homepage": "https://github.com/eojeel/ContactList#readme"
+}
